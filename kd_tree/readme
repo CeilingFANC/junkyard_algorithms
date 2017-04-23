@@ -1,0 +1,8 @@
+this is the place to store kd_tree
+
+attempt includes: For memory: binary heap?, store index instead of real poijnt at each node. 
+                                                              each node have index for point, spilt dimensions,split number
+                              
+                  for predformance priority queue+best bin first search, rkd tree. possible princple compoent anylysis  
+                  
+                                                                                               
